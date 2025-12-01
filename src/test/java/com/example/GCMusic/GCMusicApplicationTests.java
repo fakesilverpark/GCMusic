@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.example.GCMusic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class GCMusicApplicationTests {
 
     @Test
     void contextLoads() {
